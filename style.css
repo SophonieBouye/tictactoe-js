@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cell{
+    height: 150px;
+    width: 150px;
+    border: 1px solid black;
+}
